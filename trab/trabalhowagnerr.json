@@ -1,0 +1,55 @@
+{
+    "Condominio": 
+    {
+        "casa8":{
+        "numero" : "8"
+        "nomeFamilia" : "Silva"
+            },
+        "restaurante": {
+        "fornecedores" : "mercados"
+        "pratos" : "macarrao, feijoada"
+            "materiaisCozinha" : "liquidificador"
+            },
+        "academia": {
+            "aparelhos" : "estera"
+            "numeroParticipantes" : "80"
+            "horarios" : "segunda a sexta"
+
+            },
+        "jardim":{
+            "plantas" : "rosa"
+            "situacaoCuidados" : "ta bonito"
+            "equipamentos" : "inchada"
+            },
+        "seguranca":{
+            "numeroCameras" : "8"
+            "ocorrencia" : "normal"
+            "situacaoSistema" : "defeito"
+            },
+        "piscina3":{
+            "equipamentosPiscina" : "peneira, cloro"
+            "diasAbertos" : "segunda a sexta"
+            "situacaoAgua" : "ta verde"
+            },
+        "parque2":{
+            "brinquedos" : "gangorra"
+            "situacaoBrinquedos" : "ta quebrado"
+            "numeroVizitantes" : "mais de 8 mil"
+            },
+        "areaLazer1":{
+            "aparelhosArea" : "cadeiras, puff" 
+            "reservas" : "familia silva sabado"
+            "horarioFuncionamento" : "sexta a domingo"
+            },
+        "manutencao":{
+            "dataManutencao" : "hoje"
+            "materiais" : "inchada"
+            "funcionario": {
+                "nome" : "joao"
+                "salario" : "1200"
+                "cargaHoraria" : "48hrs"
+                "areaAtuacao" : "jardineiro"
+            }
+        }
+    }
+}
